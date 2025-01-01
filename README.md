@@ -14,24 +14,6 @@ The goal of this project is to develop a system that recommends recipes based on
    - Difficulty level (easy, medium, hard).
    - Meal type (e.g., breakfast, lunch, dinner).
 
----
-
-## Deliverables
-
-### 1. Python Code
-- A well-documented Python script containing:
-  - Data preprocessing steps for numerical and text-based data.
-  - The recommendation algorithm (content-based approach).
-  - An example Flask web application for user interaction.
-
-### 2. README File
-This README file provides:
-- A brief explanation of the approach taken and why it was chosen.
-- Challenges faced and solutions implemented.
-- Ideas for future improvements.
-
----
-
 ## Approach
 
 ### Overview
